@@ -1,5 +1,5 @@
 FROM node:latest
-MAINTAINER jsonfry jason@ocastastudios.com
+MAINTAINER "VAILLANT Jérémy" <vaillant.jeremy@dev-crea.com>
 
 WORKDIR /usr/src/app
 RUN git clone https://github.com/jsonfry/node-livereload.git .
