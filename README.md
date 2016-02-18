@@ -11,3 +11,26 @@ livereload:
   volumes:
     - /your/watch/directory:/usr/src/livereload-watch
 ```
+
+# Extensions
+
+- HTML
+  * `html`
+  * `haml`
+  * `erb`
+- CSS
+  * `css`
+- JAVASCRIPT
+  * `js`
+  * coffee
+- IMAGES
+  * `png`
+  * `gif`
+  * `jpg`
+- PHP
+  * `php`
+  * `php5`
+- PYTHON
+  * `py`
+- RUBY
+  * `rb`
