@@ -5,7 +5,7 @@ Based on [node-livereload](https://github.com/napcs/node-livereload)
 To use, add this to your `docker-compose.yml` file:
 ```
 livereload:
-  image: ocasta/livereload
+  image: devcrea/livereload
   ports:
     - "35729:35729"
   volumes:
